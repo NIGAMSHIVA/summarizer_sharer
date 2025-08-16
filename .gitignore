@@ -16,7 +16,6 @@ Thumbs.db
 *.env.local
 
 # Uploaded files (user-generated)
-uploads/
 
 # IDE / Editor settings
 .vscode/
