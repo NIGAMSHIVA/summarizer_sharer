@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://summarizer-sharer.onrender.com/api/:path*"
+    }
+  ]
+}
